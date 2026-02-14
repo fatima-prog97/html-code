@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Happy Valentine's Day, [Her Name]!</title>
+    <title>Happy Valentine's Day, [my love,my baby]!</title>
     <style>
         body {
             font-family: Arial, sans-serif;
